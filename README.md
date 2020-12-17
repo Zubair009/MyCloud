@@ -11,6 +11,6 @@ system ipfs. This will allow us to upload file in a decentralized way and also s
 
 using the MyCloud app interface we can intrect with MyCloude Smart contract store fileshash.
 #### MemoryToken Contract on BSC Testnet
-- Memory Token: [0x2CDde0B9F89afEA73DF5920350AE9fC70084699e](https://explorer.binance.org/smart-testnet/tokens/0x2CDde0B9F89afEA73DF5920350AE9fC70084699e) 
+- Memory Token: [0x077dfdb1d818D2e42122Ade0Fe991c97191D9DdD](https://explorer.binance.org/smart-testnet/address/0x077dfdb1d818D2e42122Ade0Fe991c97191D9DdD/transactions) 
 
 
