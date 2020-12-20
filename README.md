@@ -6,6 +6,9 @@ dapp: https://guarded-coast-52324.herokuapp.com/
 This is a Decentralized Cloud application that runs in the blockchain and also the interplanetary file 
 system ipfs. This will allow us to upload file in a decentralized way and also share with others in
  a trustless censorship resistant fashion.It will run on binance smart chain.
+ 
+ ## Demo 
+ ![Demo](https://github.com/Zubair009/MyCloud/blob/main/mycloude.gif)
 
 ## How to store Files on Binance Smart Chain?
 
